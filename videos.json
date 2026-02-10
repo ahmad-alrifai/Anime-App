@@ -1,5 +1,6 @@
 {
-  "videos": [
+  "version": 1,
+  "movies": [
     {
       "id": "conan_movie_1",
       "group": "Movies",
@@ -16,5 +17,22 @@
       "thumbnailUrl": "https://images.anime3rb.com/296353/1650536248730d.jpg",
       "videoUrl": "https://files-2.vid3rb.com/files/0020250025/9a257712-78b4-4fff-929b-51930f875eb7/1080p.mp4?e=1770770050&speed=524&t=YHXJLsnbdfUKGmxQ3_IgUw&noip=yes"
     }
-  ]
+  ],
+  "series": [
+    {
+      "id": "series_001",
+      "title": "Series Title",
+      "subtitle": "Season 1",
+      "thumbnailUrl": "https://example.com/series.jpg",
+      "episodes": [
+        {
+          "id": "series_001_ep01",
+          "title": "Episode 1",
+          "subtitle": "Pilot",
+          "thumbnailUrl": "https://example.com/ep1.jpg",
+          "videoUrl": "https://example.com/ep1.mp4"
+        }
+      ]
+    }
 }
+
