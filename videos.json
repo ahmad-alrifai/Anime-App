@@ -7,7 +7,10 @@
       "title": "Detective Conan - Movie 1",
       "subtitle": "1080p",
       "thumbnailUrl": "https://images.anime3rb.com/296347/1650535b6a0bee.jpg",
-      "videoUrl": "https://files-2.vid3rb.com/files/0020250025/9a252251-003b-49f6-8e76-7eef023e1b06/1080p.mp4?e=1770773239&speed=728&t=UwTrW0ApTyOtQfPZ8ImrUQ&noip=yes"
+      "videoUrl": "https://files-2.vid3rb.com/files/0020250025/9a252251-003b-49f6-8e76-7eef023e1b06/1080p.mp4?e=1770773239&speed=728&t=UwTrW0ApTyOtQfPZ8ImrUQ&noip=yes",
+      "ageRating": 13,
+      "categories": ["Mystery", "Detective", "Action"],
+      "description": "Detective Conan movie."
     },
     {
       "id": "detective_conan_movie_7",
@@ -15,7 +18,10 @@
       "title": "Detective Conan - Movie 7",
       "subtitle": "1080p",
       "thumbnailUrl": "https://images.anime3rb.com/296353/1650536248730d.jpg",
-      "videoUrl": "https://files-2.vid3rb.com/files/0020250025/9a257712-78b4-4fff-929b-51930f875eb7/1080p.mp4?e=1770770050&speed=524&t=YHXJLsnbdfUKGmxQ3_IgUw&noip=yes"
+      "videoUrl": "https://files-2.vid3rb.com/files/0020250025/9a257712-78b4-4fff-929b-51930f875eb7/1080p.mp4?e=1770770050&speed=524&t=YHXJLsnbdfUKGmxQ3_IgUw&noip=yes",
+      "ageRating": 13,
+      "categories": ["Mystery", "Detective", "Action"],
+      "description": "Detective Conan movie."
     }
   ],
   "series": [
@@ -25,13 +31,17 @@
       "title": "Detective Conan",
       "subtitle": "Season 1",
       "thumbnailUrl": "https://images.anime3rb.com/295680/164e88429edbd3.jpg",
+      "ageRating": 13,
+      "categories": ["Mystery", "Detective", "Crime"],
       "episodes": [
         {
           "id": "detective_conan_1_ep01",
           "title": "Episode 1",
           "subtitle": "Roller Coaster Murder Case",
           "thumbnailUrl": "https://images.anime3rb.com/295680/164e88429edbd3.jpg",
-          "videoUrl": "https://files-3.vid3rb.com/files/0020250267/9d60d9de-ad1c-4d08-b72a-cb3005fc9311/1080p.mp4?e=1770777265&speed=402&t=qukH9EU4N4-1tpL105yeyA&noip=yes"
+          "videoUrl": "https://files-3.vid3rb.com/files/0020250267/9d60d9de-ad1c-4d08-b72a-cb3005fc9311/1080p.mp4?e=1770777265&speed=402&t=qukH9EU4N4-1tpL105yeyA&noip=yes",
+          "ageRating": 13,
+          "categories": ["Mystery", "Detective", "Crime"]
         }
       ]
     },
@@ -41,6 +51,8 @@
       "title": "A Size Classmate",
       "subtitle": "Season 1",
       "thumbnailUrl": "https://arabshentai.com/wp-content/uploads/2025/09/cover-48163.webp",
+      "ageRating": 18,
+      "categories": ["Hentai", "Romance", "Crime"],
       "episodes": [
         {
           "id": "a_size_classmate_1_ep01",
@@ -48,6 +60,8 @@
           "subtitle": "Episode 1",
           "thumbnailUrl": "https://arabshentai.com/wp-content/uploads/2025/09/cover-48163.webp",
           "videoUrl": "https://lvvb9d6p7p.premilkyway.com/vp/01/11881/lje2pc8vn3bd_h/A_Size_Classmate_1.mp4?t=m360M59ypOkdHVw9kfb5qjfdwQ5gU7ojj4pNQwKVdEg&s=1770771808&e=129600&f=59406301&sp=400&i=62.178&srv=3wegyoxZ9JubI3z"
+          "ageRating": 18,
+          "categories": ["Hentai", "Romance", "Crime"]
         },
         {
           "id": "a_size_classmate_1_ep02",
@@ -55,10 +69,13 @@
           "subtitle": "Episode 2",
           "thumbnailUrl": "https://arabshentai.com/wp-content/uploads/2025/09/cover-48163.webp",
           "videoUrl": "https://g9hb6ahmf6ejy.cdn-centaurus.com/vp/01/11881/7tcpfr4k23gw_h/A_Size_Classmate_2.mp4?t=tCWtsqvOcvyt-D_jC3e7uw8avFanRZ8GtuXrrEQlBso&s=1770771889&e=129600&f=59406266&sp=400&i=62.178&srv=dwjdqozeoybz"
+          "ageRating": 18,
+          "categories": ["Hentai", "Romance", "Crime"]
         }
       ]
     }
   ]
 }
+
 
 
