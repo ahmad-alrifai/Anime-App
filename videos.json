@@ -6,7 +6,7 @@
       "group": "Movies",
       "title": "Detective Conan - Movie 1",
       "subtitle": "1080p",
-      "thumbnailUrl": "https://images.anime3rb.com/296347/1650535b6a0bee.jpg",
+      "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNGEwMGEwZTctMTcyYS00NDg3LThiM2MtMzMxMzc2MmYxZmVhXkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
       "videoUrl": "https://files-2.vid3rb.com/files/0020250025/9a252251-003b-49f6-8e76-7eef023e1b06/1080p.mp4?e=1770773239&speed=728&t=UwTrW0ApTyOtQfPZ8ImrUQ&noip=yes",
       "ageRating": 13,
       "categories": ["Mystery", "Detective", "Action"],
@@ -76,3 +76,4 @@
     }
   ]
 }
+
